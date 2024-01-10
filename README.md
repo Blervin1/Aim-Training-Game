@@ -1,5 +1,7 @@
 # Interactive Aim Training Game 🎯
 
+Feel free to explore the [Aim Training Game](https://blervin1.github.io/Aim-Training-Game/) and enhance your skills! 🚀
+
 ## Overview
 Welcome to the Interactive Aim Training Game! This project is designed to enhance your aiming and reaction skills through an engaging gaming experience. With various levels and dynamic challenges, it provides an opportunity to improve both accuracy and speed.
 
@@ -16,5 +18,3 @@ Welcome to the Interactive Aim Training Game! This project is designed to enhanc
 
 ## Technologies
 - HTML, CSS, JavaScript: Core technologies used for creating the page structure, styling, and implementing interactive behavior. 💻
-
-Feel free to explore the [Aim Training Game](https://blervin1.github.io/Aim-Training-Game/) and enhance your skills! 🚀
