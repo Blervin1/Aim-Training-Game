@@ -16,3 +16,5 @@ Welcome to the Interactive Aim Training Game! This project is designed to enhanc
 
 ## Technologies
 - HTML, CSS, JavaScript: Core technologies used for creating the page structure, styling, and implementing interactive behavior. 💻
+
+Feel free to explore the [Aim Training Game](https://blervin1.github.io/Aim-Training-Game/) and enhance your skills! 🚀
